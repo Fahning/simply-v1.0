@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Brand.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Api/AuthController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Api/BrandController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Api/ModelsController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Kernel.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Middleware/apiProtecteRoute.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Product.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/ProductCode.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Scopes/TenantScope.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/app.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/auth.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/factories/ProductFactory.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_07_16_190221_create_product_code.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_07_17_183329_create_category.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_07_17_183936_create_model.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_07_17_184035_create_brand.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/seeds/ProductSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/api.php" charset="UTF-8" />
+  </component>
+</project>
